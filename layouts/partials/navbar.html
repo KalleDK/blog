@@ -1,0 +1,20 @@
+<header>
+	<nav>
+		<ul class="main">
+			<li><a href="http://blog.kalel.dk">{{ .Site.Title }}</a></li>
+		</ul>
+		<ul class="social">
+			{{ if .RSSlink }}
+			<li>
+				<a href="{{ .RSSlink }}" class="fa fa-rss" target="_blank"></a>
+			</li>
+			{{ end }}
+			<li>
+				<a class="fa fa-github" href="https://github.com/KalleDK" target="_blank"></a>
+			</li>
+			<li>
+				<a class="fa fa-twitter" href="https://twitter.com/KalleDK" target="_blank"></a>
+			</li>
+		</ul>
+	</nav>
+</header>
