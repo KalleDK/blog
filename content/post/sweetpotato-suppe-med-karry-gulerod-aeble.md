@@ -1,5 +1,5 @@
 +++
-date = "2017-01-06T17:09:26-07:00"
+date = "2017-01-08T17:09:26-07:00"
 title = "Sweet Potato Suppe Med Karry, Gulerod Og Æble — Og Fetabrød"
 author = "Kalle R. Møller"
 description = "Uge 3"
@@ -26,7 +26,7 @@ description = "Uge 3"
 * 100 g feta
 * Koriander
 
-![Ingredienser](/img/sweet_potato_suppe_med_karry_gulerod_og_aeble_ingredienser.jpg)
+![Ingredienser](/img/sweetpotato-suppe-med-karry-gulerod-aeble/ingredienser.jpg)
 
 ### Tilberedning
 
@@ -39,5 +39,24 @@ Tilberedningstid: Ca. 30 minutter
 5. Blend suppen med en stavblender og smag til med salt og peber. Flæk brødene og rist dem på en brødrister.
 6. Skræl æblerne, del dem og fjern kernehus. Riv dem groft. Fordel revet æble i de skåle suppen skal spises af.
 7. Fordel suppen i skålene, drys med frisk koriander og evt. lidt karry. Smør feta på brødene og dyp dem i suppen.
+
+### Kommentarer
+
+__Mængde__: Der er umiddelbart til 3 dage a 2 personer.
+
+__Æble__: Det rå revet æble var en rigtig god måde at give fylde
+
+__Tid__: Der står 30 min, men det kommer meget an på komfuret.
+
+### Billeder
+
+#### Gryden efter vi begge havde taget en portion
+![Gryde](/img/sweetpotato-suppe-med-karry-gulerod-aeble/01_gryde.jpg)
+
+#### Revet æble og feta
+![Revet æble og feta](/img/sweetpotato-suppe-med-karry-gulerod-aeble/02_aeble.jpg)
+
+#### Retten
+![Retten](/img/sweetpotato-suppe-med-karry-gulerod-aeble/03_ret.jpg)
 
 Source: [RetNemt.dk](http://www.retnemt.dk/1819/Opskrift/Sweetpotato_suppe_med_karry_gulerod_aeble.htm)

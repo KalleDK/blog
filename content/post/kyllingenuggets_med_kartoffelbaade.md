@@ -24,7 +24,7 @@ description = "Uge 3"
 * 1 dåse majs
 
 
-![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade_ingredienser.jpg)
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/00_ingredienser.jpg)
 
 ### Tilberedning
 
@@ -35,6 +35,36 @@ Tilberedningstid: Ca. 30 minutter
 3. Brun kyllingestykkerne i olie på begge sider på en slip let pande ved høj varme. Skru ned til middel varme og steg ca. 8 min. De skal tage farve og blive sprøde.
 4. Skær imens agurken i tern, skyl og tør salaten og snit den i strimler og bland med majs. 
 5. Server kyllingenuggets med kartoffelbåde, majssalat og ketchup til.
+
+### Kommentarer
+
+__Billede__: RetNemt billedet stemte meget overens med det endelige resultat (vil enda sige det endelige resultat så bedre ud)
+
+__Rasp__: Der var umiddelbart for lidt. 4 tsk passer lige præcis til 300g kylling vi lavede. Dog har vi altid lidt rasp, så ikke det store problem
+
+__Ketchup__: 3 små poser virker meget mærkeligt til 4 personer. Her vil jeg mene at enten er der en pose per person eller ingen ketchup overhovedet. Vi havde selv ekstra ketchup og aioli.
+
+__Mængde__: Kylling perfekt, der var et par kartofler til overs og en smule salat.
+
+### Billeder
+
+#### Rå kartofler (4 personer)
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/01_raa_kartofler.jpg)
+
+#### Rå kylling (2 personer)
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/02_raa_kylling.jpg)
+
+#### Salat (2 personer)
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/03_salat.jpg)
+
+#### De stegte kyllinger (2 personer)
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/04_stegte_kyllinger.jpg)
+
+#### De stegte kartofler (4 personer)
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/05_stegte_kartofler.jpg)
+
+#### Den samlede ret
+![Ingredienser](/img/kyllingenuggets_med_kartoffelbaade/06_ret.jpg)
 
 Source: [RetNemt.dk](http://www.retnemt.dk/1345/kyllinge_nuggets_med_kartoffelb%C3%A5de.htm)
 

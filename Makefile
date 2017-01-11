@@ -8,7 +8,7 @@ export AWS_S3_BUCKET AWS_ACCESS_KEY AWS_SECRET_KEY
 REGISTRY := r.j3ss.co
 DOCKER_IMAGE := $(REGISTRY)/blog
 
-PORT := 80
+PORT := 8081
 
 all: release
 
@@ -27,7 +27,7 @@ run: clean build
 		-v $(CURDIR):/usr/src/blog \
 		-p $(PORT):$(PORT)\
 		--name blog \
-		$(DOCKER_IMAGE) hugo server --port=$(PORT) --bind=0.0.0.0 --baseURL=http://blog.kalel.dk/
+		$(DOCKER_IMAGE) hugo server --port=$(PORT) --bind=0.0.0.0 --baseURL=http://mad.kalel.dk:8081/
 
 serve: run
 	$(eval BLOG_IP := $(shell docker inspect --format "{{.NetworkSettings.Networks.bridge.IPAddress}}" blog))
